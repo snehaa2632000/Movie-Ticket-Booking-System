@@ -12,4 +12,4 @@ This application has a database support that is developed using MySQL language.
 
 ## NOTE
 One must have a JDBC Driver Connection to integrate Netbeans and MySQL.
-All the necessary libraries required for the package is given in the folder libraries.
+All the necessary libraries required for the package is given in the folder lib.
